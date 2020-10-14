@@ -1,0 +1,26 @@
+
+.nav-link{
+    font-family: 'Sansita Swashed', cursive !important;
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+    
+}
+li{
+    list-style: none;
+}
+img{
+    margin: 0px auto;
+}
+.LogoImg{
+    width: 25px;
+}
+
+.RedesSociales{
+    display: flex;
+    
+}
+.RedSocial{
+    flex-wrap: wrap;
+}
